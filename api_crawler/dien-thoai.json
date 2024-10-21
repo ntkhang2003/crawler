@@ -444,7 +444,7 @@
                         "name": "Dưới 2 triệu",
                         "min": 10000,
                         "max": 2000000,
-                        "quantity": 171,
+                        "quantity": 623,
                         "description": "Dưới 2 triệu",
                         "key": "duoi-2-trieu",
                         "active": false
@@ -454,7 +454,7 @@
                         "name": "Từ 2 - 4 triệu",
                         "min": 2000000,
                         "max": 4000000,
-                        "quantity": 567,
+                        "quantity": 440,
                         "description": "Từ 2 - 4 triệu",
                         "key": "tu-2-4-trieu",
                         "active": false
@@ -464,7 +464,7 @@
                         "name": "Từ 4 - 7 triệu",
                         "min": 4000000,
                         "max": 7000000,
-                        "quantity": 734,
+                        "quantity": 291,
                         "description": "Từ 4 - 7 triệu",
                         "key": "tu-4-7-trieu",
                         "active": false
@@ -474,7 +474,7 @@
                         "name": "Từ 7 - 13 triệu",
                         "min": 7000000,
                         "max": 13000000,
-                        "quantity": 551,
+                        "quantity": 837,
                         "description": "Từ 7 - 13 triệu",
                         "key": "tu-7-13-trieu",
                         "active": false
@@ -484,7 +484,7 @@
                         "name": "Từ 13 - 20 triệu",
                         "min": 13000000,
                         "max": 20000000,
-                        "quantity": 252,
+                        "quantity": 809,
                         "description": "Từ 13 - 20 triệu",
                         "key": "tu-13-20-trieu",
                         "active": false
@@ -494,7 +494,7 @@
                         "name": "Trên 20 triệu",
                         "min": 20000000,
                         "max": 100000000,
-                        "quantity": 502,
+                        "quantity": 561,
                         "description": "Trên 20 triệu",
                         "key": "tren-20-trieu",
                         "active": false
@@ -12873,86 +12873,6 @@
                 {
                     "name": "iPhone 15 Pro Max 1TB",
                     "displayName": "iPhone 15 Pro Max 1TB",
-                    "sku": "00904378",
-                    "type": "Normal",
-                    "slug": "dien-thoai/iphone-15-pro-max-1tb?sku=00904378",
-                    "refCode": "",
-                    "isShowPriceText": false,
-                    "displayPriceText": "",
-                    "originalPrice": 46990000,
-                    "currentPrice": 42390000,
-                    "statusOnWeb": {
-                        "code": 11,
-                        "displayName": "Mua ngay"
-                    },
-                    "productStatus": {
-                        "code": 2,
-                        "displayName": "Order"
-                    },
-                    "endTimeDiscount": "2024-10-21T23:59:00.000+07:00",
-                    "discountPercentage": 10,
-                    "newPrice": 0,
-                    "qtyAvailable": 0,
-                    "promotions": [
-                        {
-                            "content": "Chủ thẻ OCB: Giảm thêm 500,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/OCB-1695659775285.png",
-                                "title": "KM-0724-0777"
-                            }
-                        },
-                        {
-                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
-                                "title": "KM-0324-0943"
-                            }
-                        },
-                        {
-                            "content": "Giảm 5% cho đơn từ 53,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
-                                "title": "KM-0924-0974"
-                            }
-                        },
-                        {
-                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
-                                "title": "KM-0524-1074"
-                            }
-                        }
-                    ],
-                    "variants": [
-                        {
-                            "propertyName": "color",
-                            "displayValue": "Titan Tự nhiên",
-                            "value": "Titan Tự nhiên",
-                            "displayOrder": 0,
-                            "code": "#BBB5A9"
-                        },
-                        {
-                            "displayOrder": 3,
-                            "code": null,
-                            "displayValue": "1 TB",
-                            "propertyName": "rom",
-                            "value": "1"
-                        }
-                    ],
-                    "image": "https://cdn2.fptshop.com.vn/unsafe/2023_9_20_638307992305419305_iphone-15-promax-xanh-vang-1.jpg",
-                    "badges": [],
-                    "labels": [
-                        {
-                            "name": "Trả góp 0%",
-                            "code": "zero",
-                            "discountAmount": 0,
-                            "image": "/"
-                        }
-                    ]
-                },
-                {
-                    "name": "iPhone 15 Pro Max 1TB",
-                    "displayName": "iPhone 15 Pro Max 1TB",
                     "sku": "00904375",
                     "type": "Normal",
                     "slug": "dien-thoai/iphone-15-pro-max-1tb?sku=00904375",
@@ -13020,6 +12940,86 @@
                         }
                     ],
                     "image": "https://cdn2.fptshop.com.vn/unsafe/2023_9_20_638307980220145280_iphone-15-promax-den-1.jpg",
+                    "badges": [],
+                    "labels": [
+                        {
+                            "name": "Trả góp 0%",
+                            "code": "zero",
+                            "discountAmount": 0,
+                            "image": "/"
+                        }
+                    ]
+                },
+                {
+                    "name": "iPhone 15 Pro Max 1TB",
+                    "displayName": "iPhone 15 Pro Max 1TB",
+                    "sku": "00904378",
+                    "type": "Normal",
+                    "slug": "dien-thoai/iphone-15-pro-max-1tb?sku=00904378",
+                    "refCode": "",
+                    "isShowPriceText": false,
+                    "displayPriceText": "",
+                    "originalPrice": 46990000,
+                    "currentPrice": 42390000,
+                    "statusOnWeb": {
+                        "code": 11,
+                        "displayName": "Mua ngay"
+                    },
+                    "productStatus": {
+                        "code": 2,
+                        "displayName": "Order"
+                    },
+                    "endTimeDiscount": "2024-10-21T23:59:00.000+07:00",
+                    "discountPercentage": 10,
+                    "newPrice": 0,
+                    "qtyAvailable": 0,
+                    "promotions": [
+                        {
+                            "content": "Chủ thẻ OCB: Giảm thêm 500,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/OCB-1695659775285.png",
+                                "title": "KM-0724-0777"
+                            }
+                        },
+                        {
+                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
+                                "title": "KM-0324-0943"
+                            }
+                        },
+                        {
+                            "content": "Giảm 5% cho đơn từ 53,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
+                                "title": "KM-0924-0974"
+                            }
+                        },
+                        {
+                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
+                                "title": "KM-0524-1074"
+                            }
+                        }
+                    ],
+                    "variants": [
+                        {
+                            "propertyName": "color",
+                            "displayValue": "Titan Tự nhiên",
+                            "value": "Titan Tự nhiên",
+                            "displayOrder": 0,
+                            "code": "#BBB5A9"
+                        },
+                        {
+                            "displayOrder": 3,
+                            "code": null,
+                            "displayValue": "1 TB",
+                            "propertyName": "rom",
+                            "value": "1"
+                        }
+                    ],
+                    "image": "https://cdn2.fptshop.com.vn/unsafe/2023_9_20_638307992305419305_iphone-15-promax-xanh-vang-1.jpg",
                     "badges": [],
                     "labels": [
                         {
@@ -13619,85 +13619,6 @@
                 {
                     "name": "iPhone 13 128GB",
                     "displayName": "iPhone 13 128GB",
-                    "sku": "00773148",
-                    "type": "Normal",
-                    "slug": "dien-thoai/iphone-13-128gb",
-                    "refCode": "00773148",
-                    "isShowPriceText": false,
-                    "displayPriceText": "",
-                    "originalPrice": 18990000,
-                    "currentPrice": 13690000,
-                    "statusOnWeb": {
-                        "code": 11,
-                        "displayName": "Mua ngay"
-                    },
-                    "productStatus": {
-                        "code": 2,
-                        "displayName": "Order"
-                    },
-                    "endTimeDiscount": "2024-10-21T23:59:00.000+07:00",
-                    "discountPercentage": 28,
-                    "qtyAvailable": 0,
-                    "promotions": [
-                        {
-                            "content": "Chủ thẻ OCB: Giảm thêm 500,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/OCB-1695659775285.png",
-                                "title": "KM-0724-0777"
-                            }
-                        },
-                        {
-                            "content": "Giảm 5% cho đơn từ 53,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
-                                "title": "KM-0924-0974"
-                            }
-                        },
-                        {
-                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
-                                "title": "KM-0324-0943"
-                            }
-                        },
-                        {
-                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
-                                "title": "KM-0524-1074"
-                            }
-                        }
-                    ],
-                    "variants": [
-                        {
-                            "displayOrder": 1,
-                            "code": null,
-                            "displayValue": "128 GB",
-                            "propertyName": "rom",
-                            "value": "128"
-                        },
-                        {
-                            "propertyName": "color",
-                            "displayValue": "Đỏ",
-                            "value": "Đỏ",
-                            "displayOrder": 0,
-                            "code": "#f0142d"
-                        }
-                    ],
-                    "image": "https://cdn2.fptshop.com.vn/unsafe/2021_9_15_637673230232103636_iphone-13-mini-do-1.jpg",
-                    "badges": [],
-                    "labels": [
-                        {
-                            "name": "Trả góp 0%",
-                            "code": "zero",
-                            "discountAmount": 0,
-                            "image": "/"
-                        }
-                    ]
-                },
-                {
-                    "name": "iPhone 13 128GB",
-                    "displayName": "iPhone 13 128GB",
                     "sku": "00800302",
                     "type": "Normal",
                     "slug": "dien-thoai/iphone-13-128gb?sku=00800302",
@@ -13764,6 +13685,85 @@
                         }
                     ],
                     "image": "https://cdn2.fptshop.com.vn/unsafe/2022_3_9_637824166253829277_iphone-13-xanhreu-1.jpg",
+                    "badges": [],
+                    "labels": [
+                        {
+                            "name": "Trả góp 0%",
+                            "code": "zero",
+                            "discountAmount": 0,
+                            "image": "/"
+                        }
+                    ]
+                },
+                {
+                    "name": "iPhone 13 128GB",
+                    "displayName": "iPhone 13 128GB",
+                    "sku": "00773148",
+                    "type": "Normal",
+                    "slug": "dien-thoai/iphone-13-128gb",
+                    "refCode": "00773148",
+                    "isShowPriceText": false,
+                    "displayPriceText": "",
+                    "originalPrice": 18990000,
+                    "currentPrice": 13690000,
+                    "statusOnWeb": {
+                        "code": 11,
+                        "displayName": "Mua ngay"
+                    },
+                    "productStatus": {
+                        "code": 2,
+                        "displayName": "Order"
+                    },
+                    "endTimeDiscount": "2024-10-21T23:59:00.000+07:00",
+                    "discountPercentage": 28,
+                    "qtyAvailable": 0,
+                    "promotions": [
+                        {
+                            "content": "Chủ thẻ OCB: Giảm thêm 500,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/OCB-1695659775285.png",
+                                "title": "KM-0724-0777"
+                            }
+                        },
+                        {
+                            "content": "Giảm 5% cho đơn từ 53,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
+                                "title": "KM-0924-0974"
+                            }
+                        },
+                        {
+                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
+                                "title": "KM-0324-0943"
+                            }
+                        },
+                        {
+                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
+                                "title": "KM-0524-1074"
+                            }
+                        }
+                    ],
+                    "variants": [
+                        {
+                            "displayOrder": 1,
+                            "code": null,
+                            "displayValue": "128 GB",
+                            "propertyName": "rom",
+                            "value": "128"
+                        },
+                        {
+                            "propertyName": "color",
+                            "displayValue": "Đỏ",
+                            "value": "Đỏ",
+                            "displayOrder": 0,
+                            "code": "#f0142d"
+                        }
+                    ],
+                    "image": "https://cdn2.fptshop.com.vn/unsafe/2021_9_15_637673230232103636_iphone-13-mini-do-1.jpg",
                     "badges": [],
                     "labels": [
                         {
@@ -16664,86 +16664,6 @@
                 {
                     "name": "iPhone 15 256GB",
                     "displayName": "iPhone 15 256GB",
-                    "sku": "00904222",
-                    "type": "Normal",
-                    "slug": "dien-thoai/iphone-15-256gb?sku=00904222",
-                    "refCode": "",
-                    "isShowPriceText": false,
-                    "displayPriceText": "",
-                    "originalPrice": 25990000,
-                    "currentPrice": 22890000,
-                    "statusOnWeb": {
-                        "code": 11,
-                        "displayName": "Mua ngay"
-                    },
-                    "productStatus": {
-                        "code": 2,
-                        "displayName": "Order"
-                    },
-                    "endTimeDiscount": "2024-10-21T23:59:00.000+07:00",
-                    "discountPercentage": 12,
-                    "newPrice": 0,
-                    "qtyAvailable": 0,
-                    "promotions": [
-                        {
-                            "content": "Chủ thẻ OCB: Giảm thêm 500,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/OCB-1695659775285.png",
-                                "title": "KM-0724-0777"
-                            }
-                        },
-                        {
-                            "content": "Giảm 5% cho đơn từ 53,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
-                                "title": "KM-0924-0974"
-                            }
-                        },
-                        {
-                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
-                                "title": "KM-0324-0943"
-                            }
-                        },
-                        {
-                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
-                                "title": "KM-0524-1074"
-                            }
-                        }
-                    ],
-                    "variants": [
-                        {
-                            "propertyName": "color",
-                            "displayValue": "Xanh lá",
-                            "value": "Xanh lá",
-                            "displayOrder": 0,
-                            "code": "#D2DCCD"
-                        },
-                        {
-                            "displayOrder": 2,
-                            "code": null,
-                            "displayValue": "256 GB",
-                            "propertyName": "rom",
-                            "value": "256"
-                        }
-                    ],
-                    "image": "https://cdn2.fptshop.com.vn/unsafe/2023_9_15_638303950417112947_iphone-15-xanh-la-1.jpg",
-                    "badges": [],
-                    "labels": [
-                        {
-                            "name": "Trả góp 0%",
-                            "code": "zero",
-                            "discountAmount": 0,
-                            "image": "/"
-                        }
-                    ]
-                },
-                {
-                    "name": "iPhone 15 256GB",
-                    "displayName": "iPhone 15 256GB",
                     "sku": "00904221",
                     "type": "Normal",
                     "slug": "dien-thoai/iphone-15-256gb?sku=00904221",
@@ -16811,6 +16731,86 @@
                         }
                     ],
                     "image": "https://cdn2.fptshop.com.vn/unsafe/2023_9_15_638303947975273507_iphone-15-den-1.jpg",
+                    "badges": [],
+                    "labels": [
+                        {
+                            "name": "Trả góp 0%",
+                            "code": "zero",
+                            "discountAmount": 0,
+                            "image": "/"
+                        }
+                    ]
+                },
+                {
+                    "name": "iPhone 15 256GB",
+                    "displayName": "iPhone 15 256GB",
+                    "sku": "00904222",
+                    "type": "Normal",
+                    "slug": "dien-thoai/iphone-15-256gb?sku=00904222",
+                    "refCode": "",
+                    "isShowPriceText": false,
+                    "displayPriceText": "",
+                    "originalPrice": 25990000,
+                    "currentPrice": 22890000,
+                    "statusOnWeb": {
+                        "code": 11,
+                        "displayName": "Mua ngay"
+                    },
+                    "productStatus": {
+                        "code": 2,
+                        "displayName": "Order"
+                    },
+                    "endTimeDiscount": "2024-10-21T23:59:00.000+07:00",
+                    "discountPercentage": 12,
+                    "newPrice": 0,
+                    "qtyAvailable": 0,
+                    "promotions": [
+                        {
+                            "content": "Chủ thẻ OCB: Giảm thêm 500,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/OCB-1695659775285.png",
+                                "title": "KM-0724-0777"
+                            }
+                        },
+                        {
+                            "content": "Giảm 5% cho đơn từ 53,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
+                                "title": "KM-0924-0974"
+                            }
+                        },
+                        {
+                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
+                                "title": "KM-0324-0943"
+                            }
+                        },
+                        {
+                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
+                                "title": "KM-0524-1074"
+                            }
+                        }
+                    ],
+                    "variants": [
+                        {
+                            "propertyName": "color",
+                            "displayValue": "Xanh lá",
+                            "value": "Xanh lá",
+                            "displayOrder": 0,
+                            "code": "#D2DCCD"
+                        },
+                        {
+                            "displayOrder": 2,
+                            "code": null,
+                            "displayValue": "256 GB",
+                            "propertyName": "rom",
+                            "value": "256"
+                        }
+                    ],
+                    "image": "https://cdn2.fptshop.com.vn/unsafe/2023_9_15_638303950417112947_iphone-15-xanh-la-1.jpg",
                     "badges": [],
                     "labels": [
                         {
@@ -23617,79 +23617,6 @@
                 {
                     "name": "Itel IT8010 4G",
                     "displayName": "Itel IT8010 4G",
-                    "sku": "00910103",
-                    "type": "Normal",
-                    "slug": "dien-thoai/tel-it8010-4g-xanh-bien",
-                    "refCode": "",
-                    "isShowPriceText": false,
-                    "displayPriceText": "",
-                    "originalPrice": 390000,
-                    "currentPrice": 390000,
-                    "statusOnWeb": {
-                        "code": 11,
-                        "displayName": "Mua ngay"
-                    },
-                    "productStatus": {
-                        "code": 2,
-                        "displayName": "Order"
-                    },
-                    "endTimeDiscount": null,
-                    "discountPercentage": 0,
-                    "newPrice": 0,
-                    "qtyAvailable": 0,
-                    "promotions": [
-                        {
-                            "content": "Giảm 5% cho đơn từ 53,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
-                                "title": "KM-0924-0974"
-                            }
-                        },
-                        {
-                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
-                                "title": "KM-0324-0943"
-                            }
-                        },
-                        {
-                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
-                                "title": "KM-0524-1074"
-                            }
-                        },
-                        {
-                            "content": "Giảm đến 1 triệu trả góp qua thẻ Visa",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/logo%20VIS%20%281%29-1710755734895.jpeg",
-                                "title": "KM-0924-0538"
-                            }
-                        }
-                    ],
-                    "variants": [
-                        {
-                            "propertyName": "color",
-                            "displayValue": "Xanh biển",
-                            "value": "Xanh biển",
-                            "displayOrder": 0,
-                            "code": "#2fd5ed"
-                        },
-                        {
-                            "displayOrder": 1,
-                            "code": null,
-                            "displayValue": "16 MB",
-                            "propertyName": "rom",
-                            "value": "16"
-                        }
-                    ],
-                    "image": "https://cdn2.fptshop.com.vn/unsafe/itel_it8010_4g_xanh_a329dab483.jpg",
-                    "badges": [],
-                    "labels": []
-                },
-                {
-                    "name": "Itel IT8010 4G",
-                    "displayName": "Itel IT8010 4G",
                     "sku": "00911984",
                     "type": "Normal",
                     "slug": "dien-thoai/itel-it8010-4g?sku=00911984",
@@ -23757,6 +23684,79 @@
                         }
                     ],
                     "image": "https://cdn2.fptshop.com.vn/unsafe/itel_it8010_4g_den_vang_e94a1510fe.jpg",
+                    "badges": [],
+                    "labels": []
+                },
+                {
+                    "name": "Itel IT8010 4G",
+                    "displayName": "Itel IT8010 4G",
+                    "sku": "00910103",
+                    "type": "Normal",
+                    "slug": "dien-thoai/tel-it8010-4g-xanh-bien",
+                    "refCode": "",
+                    "isShowPriceText": false,
+                    "displayPriceText": "",
+                    "originalPrice": 390000,
+                    "currentPrice": 390000,
+                    "statusOnWeb": {
+                        "code": 11,
+                        "displayName": "Mua ngay"
+                    },
+                    "productStatus": {
+                        "code": 2,
+                        "displayName": "Order"
+                    },
+                    "endTimeDiscount": null,
+                    "discountPercentage": 0,
+                    "newPrice": 0,
+                    "qtyAvailable": 0,
+                    "promotions": [
+                        {
+                            "content": "Giảm 5% cho đơn từ 53,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
+                                "title": "KM-0924-0974"
+                            }
+                        },
+                        {
+                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
+                                "title": "KM-0324-0943"
+                            }
+                        },
+                        {
+                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
+                                "title": "KM-0524-1074"
+                            }
+                        },
+                        {
+                            "content": "Giảm đến 1 triệu trả góp qua thẻ Visa",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/logo%20VIS%20%281%29-1710755734895.jpeg",
+                                "title": "KM-0924-0538"
+                            }
+                        }
+                    ],
+                    "variants": [
+                        {
+                            "propertyName": "color",
+                            "displayValue": "Xanh biển",
+                            "value": "Xanh biển",
+                            "displayOrder": 0,
+                            "code": "#2fd5ed"
+                        },
+                        {
+                            "displayOrder": 1,
+                            "code": null,
+                            "displayValue": "16 MB",
+                            "propertyName": "rom",
+                            "value": "16"
+                        }
+                    ],
+                    "image": "https://cdn2.fptshop.com.vn/unsafe/itel_it8010_4g_xanh_a329dab483.jpg",
                     "badges": [],
                     "labels": []
                 }
@@ -26148,86 +26148,6 @@
                 {
                     "name": "Tecno Pova 6 Neo 8GB 128GB",
                     "displayName": "Tecno Pova 6 Neo 8GB 128GB",
-                    "sku": "00911870",
-                    "type": "Normal",
-                    "slug": "dien-thoai/tecno-pova-6-neo-8gb?sku=00911870",
-                    "refCode": "",
-                    "isShowPriceText": false,
-                    "displayPriceText": "",
-                    "originalPrice": 4590000,
-                    "currentPrice": 4190000,
-                    "statusOnWeb": {
-                        "code": 11,
-                        "displayName": "Mua ngay"
-                    },
-                    "productStatus": {
-                        "code": 2,
-                        "displayName": "Order"
-                    },
-                    "endTimeDiscount": "2024-10-31T23:59:00.000+07:00",
-                    "discountPercentage": 9,
-                    "newPrice": 0,
-                    "qtyAvailable": 0,
-                    "promotions": [
-                        {
-                            "content": "Giảm 5% cho đơn từ 53,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
-                                "title": "KM-0924-0974"
-                            }
-                        },
-                        {
-                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
-                                "title": "KM-0324-0943"
-                            }
-                        },
-                        {
-                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
-                                "title": "KM-0524-1074"
-                            }
-                        },
-                        {
-                            "content": "Giảm đến 1 triệu trả góp qua thẻ Visa",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/logo%20VIS%20%281%29-1710755734895.jpeg",
-                                "title": "KM-0924-0538"
-                            }
-                        }
-                    ],
-                    "variants": [
-                        {
-                            "propertyName": "color",
-                            "displayValue": "Xanh lá",
-                            "value": "Xanh lá",
-                            "displayOrder": 0,
-                            "code": "#488d68"
-                        },
-                        {
-                            "displayOrder": 1,
-                            "code": null,
-                            "displayValue": "128 GB",
-                            "propertyName": "rom",
-                            "value": "128"
-                        }
-                    ],
-                    "image": "https://cdn2.fptshop.com.vn/unsafe/tecno_pova_6_neo_xanh_la_4_800942bcf6.jpg",
-                    "badges": [],
-                    "labels": [
-                        {
-                            "name": "Trả góp 0%",
-                            "code": "zero",
-                            "discountAmount": 0,
-                            "image": "/"
-                        }
-                    ]
-                },
-                {
-                    "name": "Tecno Pova 6 Neo 8GB 128GB",
-                    "displayName": "Tecno Pova 6 Neo 8GB 128GB",
                     "sku": "00911871",
                     "type": "Normal",
                     "slug": "dien-thoai/tecno-pova-6-neo-8gb?sku=00911871",
@@ -26375,6 +26295,86 @@
                         }
                     ],
                     "image": "https://cdn2.fptshop.com.vn/unsafe/tecno_pova_6_neo_xanh_duong_4_b327a86551.jpg",
+                    "badges": [],
+                    "labels": [
+                        {
+                            "name": "Trả góp 0%",
+                            "code": "zero",
+                            "discountAmount": 0,
+                            "image": "/"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tecno Pova 6 Neo 8GB 128GB",
+                    "displayName": "Tecno Pova 6 Neo 8GB 128GB",
+                    "sku": "00911870",
+                    "type": "Normal",
+                    "slug": "dien-thoai/tecno-pova-6-neo-8gb?sku=00911870",
+                    "refCode": "",
+                    "isShowPriceText": false,
+                    "displayPriceText": "",
+                    "originalPrice": 4590000,
+                    "currentPrice": 4190000,
+                    "statusOnWeb": {
+                        "code": 11,
+                        "displayName": "Mua ngay"
+                    },
+                    "productStatus": {
+                        "code": 2,
+                        "displayName": "Order"
+                    },
+                    "endTimeDiscount": "2024-10-31T23:59:00.000+07:00",
+                    "discountPercentage": 9,
+                    "newPrice": 0,
+                    "qtyAvailable": 0,
+                    "promotions": [
+                        {
+                            "content": "Giảm 5% cho đơn từ 53,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
+                                "title": "KM-0924-0974"
+                            }
+                        },
+                        {
+                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
+                                "title": "KM-0324-0943"
+                            }
+                        },
+                        {
+                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
+                                "title": "KM-0524-1074"
+                            }
+                        },
+                        {
+                            "content": "Giảm đến 1 triệu trả góp qua thẻ Visa",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/logo%20VIS%20%281%29-1710755734895.jpeg",
+                                "title": "KM-0924-0538"
+                            }
+                        }
+                    ],
+                    "variants": [
+                        {
+                            "propertyName": "color",
+                            "displayValue": "Xanh lá",
+                            "value": "Xanh lá",
+                            "displayOrder": 0,
+                            "code": "#488d68"
+                        },
+                        {
+                            "displayOrder": 1,
+                            "code": null,
+                            "displayValue": "128 GB",
+                            "propertyName": "rom",
+                            "value": "128"
+                        }
+                    ],
+                    "image": "https://cdn2.fptshop.com.vn/unsafe/tecno_pova_6_neo_xanh_la_4_800942bcf6.jpg",
                     "badges": [],
                     "labels": [
                         {
@@ -27211,6 +27211,85 @@
                 {
                     "name": "iPhone 14 128GB",
                     "displayName": "iPhone 14 128GB",
+                    "sku": "00832859",
+                    "type": "Normal",
+                    "slug": "dien-thoai/iphone-14-128gb?sku=00832859",
+                    "refCode": "00832859",
+                    "isShowPriceText": false,
+                    "displayPriceText": "",
+                    "originalPrice": 21990000,
+                    "currentPrice": 17290000,
+                    "statusOnWeb": {
+                        "code": 11,
+                        "displayName": "Mua ngay"
+                    },
+                    "productStatus": {
+                        "code": 2,
+                        "displayName": "Order"
+                    },
+                    "endTimeDiscount": "2024-10-21T23:59:00.000+07:00",
+                    "discountPercentage": 21,
+                    "qtyAvailable": 0,
+                    "promotions": [
+                        {
+                            "content": "Chủ thẻ OCB: Giảm thêm 500,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/OCB-1695659775285.png",
+                                "title": "KM-0724-0777"
+                            }
+                        },
+                        {
+                            "content": "Giảm 5% cho đơn từ 53,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
+                                "title": "KM-0924-0974"
+                            }
+                        },
+                        {
+                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
+                                "title": "KM-0324-0943"
+                            }
+                        },
+                        {
+                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
+                                "title": "KM-0524-1074"
+                            }
+                        }
+                    ],
+                    "variants": [
+                        {
+                            "propertyName": "color",
+                            "displayValue": "Đen",
+                            "value": "Đen",
+                            "displayOrder": 0,
+                            "code": "#232A31"
+                        },
+                        {
+                            "displayOrder": 1,
+                            "code": null,
+                            "displayValue": "128 GB",
+                            "propertyName": "rom",
+                            "value": "128"
+                        }
+                    ],
+                    "image": "https://cdn2.fptshop.com.vn/unsafe/2022_11_30_638054086797665958_ip-14-den-1.jpg",
+                    "badges": [],
+                    "labels": [
+                        {
+                            "name": "Trả góp 0%",
+                            "code": "zero",
+                            "discountAmount": 0,
+                            "image": "/"
+                        }
+                    ]
+                },
+                {
+                    "name": "iPhone 14 128GB",
+                    "displayName": "iPhone 14 128GB",
                     "sku": "00863450",
                     "type": "Normal",
                     "slug": "dien-thoai/iphone-14-128gb?sku=00863450",
@@ -27356,85 +27435,6 @@
                         }
                     ],
                     "image": "https://cdn2.fptshop.com.vn/unsafe/2022_11_30_638054090260153672_ip-14-tim-1.jpg",
-                    "badges": [],
-                    "labels": [
-                        {
-                            "name": "Trả góp 0%",
-                            "code": "zero",
-                            "discountAmount": 0,
-                            "image": "/"
-                        }
-                    ]
-                },
-                {
-                    "name": "iPhone 14 128GB",
-                    "displayName": "iPhone 14 128GB",
-                    "sku": "00832859",
-                    "type": "Normal",
-                    "slug": "dien-thoai/iphone-14-128gb?sku=00832859",
-                    "refCode": "00832859",
-                    "isShowPriceText": false,
-                    "displayPriceText": "",
-                    "originalPrice": 21990000,
-                    "currentPrice": 17290000,
-                    "statusOnWeb": {
-                        "code": 11,
-                        "displayName": "Mua ngay"
-                    },
-                    "productStatus": {
-                        "code": 2,
-                        "displayName": "Order"
-                    },
-                    "endTimeDiscount": "2024-10-21T23:59:00.000+07:00",
-                    "discountPercentage": 21,
-                    "qtyAvailable": 0,
-                    "promotions": [
-                        {
-                            "content": "Chủ thẻ OCB: Giảm thêm 500,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/OCB-1695659775285.png",
-                                "title": "KM-0724-0777"
-                            }
-                        },
-                        {
-                            "content": "Giảm 5% cho đơn từ 53,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
-                                "title": "KM-0924-0974"
-                            }
-                        },
-                        {
-                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
-                                "title": "KM-0324-0943"
-                            }
-                        },
-                        {
-                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
-                                "title": "KM-0524-1074"
-                            }
-                        }
-                    ],
-                    "variants": [
-                        {
-                            "propertyName": "color",
-                            "displayValue": "Đen",
-                            "value": "Đen",
-                            "displayOrder": 0,
-                            "code": "#232A31"
-                        },
-                        {
-                            "displayOrder": 1,
-                            "code": null,
-                            "displayValue": "128 GB",
-                            "propertyName": "rom",
-                            "value": "128"
-                        }
-                    ],
-                    "image": "https://cdn2.fptshop.com.vn/unsafe/2022_11_30_638054086797665958_ip-14-den-1.jpg",
                     "badges": [],
                     "labels": [
                         {
@@ -27685,85 +27685,6 @@
                 {
                     "name": "iPhone 14 256GB",
                     "displayName": "iPhone 14 256GB",
-                    "sku": "00863452",
-                    "type": "Normal",
-                    "slug": "dien-thoai/iphone-14-256gb?sku=00863452",
-                    "refCode": "00863452",
-                    "isShowPriceText": false,
-                    "displayPriceText": "",
-                    "originalPrice": 24990000,
-                    "currentPrice": 20490000,
-                    "statusOnWeb": {
-                        "code": 11,
-                        "displayName": "Mua ngay"
-                    },
-                    "productStatus": {
-                        "code": 2,
-                        "displayName": "Order"
-                    },
-                    "endTimeDiscount": "2024-10-21T23:59:00.000+07:00",
-                    "discountPercentage": 18,
-                    "qtyAvailable": 0,
-                    "promotions": [
-                        {
-                            "content": "Chủ thẻ OCB: Giảm thêm 500,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/OCB-1695659775285.png",
-                                "title": "KM-0724-0777"
-                            }
-                        },
-                        {
-                            "content": "Giảm 5% cho đơn từ 53,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
-                                "title": "KM-0924-0974"
-                            }
-                        },
-                        {
-                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
-                                "title": "KM-0324-0943"
-                            }
-                        },
-                        {
-                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
-                                "title": "KM-0524-1074"
-                            }
-                        }
-                    ],
-                    "variants": [
-                        {
-                            "propertyName": "color",
-                            "displayValue": "Vàng",
-                            "value": "Vàng",
-                            "displayOrder": 0,
-                            "code": "#F0D95B"
-                        },
-                        {
-                            "displayOrder": 2,
-                            "code": null,
-                            "displayValue": "256 GB",
-                            "propertyName": "rom",
-                            "value": "256"
-                        }
-                    ],
-                    "image": "https://cdn2.fptshop.com.vn/unsafe/2023_3_7_638138235534641283_iphone-14-vang-1.jpg",
-                    "badges": [],
-                    "labels": [
-                        {
-                            "name": "Trả góp 0%",
-                            "code": "zero",
-                            "discountAmount": 0,
-                            "image": "/"
-                        }
-                    ]
-                },
-                {
-                    "name": "iPhone 14 256GB",
-                    "displayName": "iPhone 14 256GB",
                     "sku": "00832866",
                     "type": "Normal",
                     "slug": "dien-thoai/iphone-14-256gb?sku=00832866",
@@ -27830,6 +27751,85 @@
                         }
                     ],
                     "image": "https://cdn2.fptshop.com.vn/unsafe/2022_11_30_638054088819837718_ip-14-do-1.jpg",
+                    "badges": [],
+                    "labels": [
+                        {
+                            "name": "Trả góp 0%",
+                            "code": "zero",
+                            "discountAmount": 0,
+                            "image": "/"
+                        }
+                    ]
+                },
+                {
+                    "name": "iPhone 14 256GB",
+                    "displayName": "iPhone 14 256GB",
+                    "sku": "00863452",
+                    "type": "Normal",
+                    "slug": "dien-thoai/iphone-14-256gb?sku=00863452",
+                    "refCode": "00863452",
+                    "isShowPriceText": false,
+                    "displayPriceText": "",
+                    "originalPrice": 24990000,
+                    "currentPrice": 20490000,
+                    "statusOnWeb": {
+                        "code": 11,
+                        "displayName": "Mua ngay"
+                    },
+                    "productStatus": {
+                        "code": 2,
+                        "displayName": "Order"
+                    },
+                    "endTimeDiscount": "2024-10-21T23:59:00.000+07:00",
+                    "discountPercentage": 18,
+                    "qtyAvailable": 0,
+                    "promotions": [
+                        {
+                            "content": "Chủ thẻ OCB: Giảm thêm 500,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/OCB-1695659775285.png",
+                                "title": "KM-0724-0777"
+                            }
+                        },
+                        {
+                            "content": "Giảm 5% cho đơn từ 53,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
+                                "title": "KM-0924-0974"
+                            }
+                        },
+                        {
+                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
+                                "title": "KM-0324-0943"
+                            }
+                        },
+                        {
+                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
+                                "title": "KM-0524-1074"
+                            }
+                        }
+                    ],
+                    "variants": [
+                        {
+                            "propertyName": "color",
+                            "displayValue": "Vàng",
+                            "value": "Vàng",
+                            "displayOrder": 0,
+                            "code": "#F0D95B"
+                        },
+                        {
+                            "displayOrder": 2,
+                            "code": null,
+                            "displayValue": "256 GB",
+                            "propertyName": "rom",
+                            "value": "256"
+                        }
+                    ],
+                    "image": "https://cdn2.fptshop.com.vn/unsafe/2023_3_7_638138235534641283_iphone-14-vang-1.jpg",
                     "badges": [],
                     "labels": [
                         {
@@ -27949,93 +27949,6 @@
                 {
                     "name": "OPPO Reno11 F 5G 8GB-256GB",
                     "displayName": "OPPO Reno11 F 5G 8GB-256GB",
-                    "sku": "00906739",
-                    "type": "Normal",
-                    "slug": "dien-thoai/oppo-reno11-f?sku=00906739",
-                    "refCode": "",
-                    "isShowPriceText": false,
-                    "displayPriceText": "",
-                    "originalPrice": 8990000,
-                    "currentPrice": 8490000,
-                    "statusOnWeb": {
-                        "code": 11,
-                        "displayName": "Mua ngay"
-                    },
-                    "productStatus": {
-                        "code": 2,
-                        "displayName": "Order"
-                    },
-                    "endTimeDiscount": "2024-10-31T23:59:00.000+07:00",
-                    "discountPercentage": 6,
-                    "newPrice": 0,
-                    "qtyAvailable": 0,
-                    "promotions": [
-                        {
-                            "content": "Chủ thẻ Sacombank: Giảm thêm 200,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/sac-1695660073240.png",
-                                "title": "KM-0924-0818"
-                            }
-                        },
-                        {
-                            "content": "Giảm 5% cho đơn từ 53,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
-                                "title": "KM-0924-0974"
-                            }
-                        },
-                        {
-                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
-                                "title": "KM-0324-0943"
-                            }
-                        },
-                        {
-                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
-                                "title": "KM-0524-1074"
-                            }
-                        },
-                        {
-                            "content": "Giảm đến 1 triệu trả góp qua thẻ Visa",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/logo%20VIS%20%281%29-1710755734895.jpeg",
-                                "title": "KM-0924-0538"
-                            }
-                        }
-                    ],
-                    "variants": [
-                        {
-                            "propertyName": "color",
-                            "displayValue": "Xanh Đen",
-                            "value": "Xanh Đen",
-                            "displayOrder": 0,
-                            "code": "#2b3d3c"
-                        },
-                        {
-                            "displayOrder": 1,
-                            "code": null,
-                            "displayValue": "256 GB",
-                            "propertyName": "rom",
-                            "value": "256"
-                        }
-                    ],
-                    "image": "https://cdn2.fptshop.com.vn/unsafe/2024_3_1_638449312178509644_oppo-reno11-f-xanh-den-2.png",
-                    "badges": [],
-                    "labels": [
-                        {
-                            "name": "Trả góp 0%",
-                            "code": "zero",
-                            "discountAmount": 0,
-                            "image": "/"
-                        }
-                    ]
-                },
-                {
-                    "name": "OPPO Reno11 F 5G 8GB-256GB",
-                    "displayName": "OPPO Reno11 F 5G 8GB-256GB",
                     "sku": "00906738",
                     "type": "Normal",
                     "slug": "dien-thoai/oppo-reno11-f",
@@ -28110,6 +28023,93 @@
                         }
                     ],
                     "image": "https://cdn2.fptshop.com.vn/unsafe/2024_3_1_638449310772181204_oppo-reno11-f-xanh-1.png",
+                    "badges": [],
+                    "labels": [
+                        {
+                            "name": "Trả góp 0%",
+                            "code": "zero",
+                            "discountAmount": 0,
+                            "image": "/"
+                        }
+                    ]
+                },
+                {
+                    "name": "OPPO Reno11 F 5G 8GB-256GB",
+                    "displayName": "OPPO Reno11 F 5G 8GB-256GB",
+                    "sku": "00906739",
+                    "type": "Normal",
+                    "slug": "dien-thoai/oppo-reno11-f?sku=00906739",
+                    "refCode": "",
+                    "isShowPriceText": false,
+                    "displayPriceText": "",
+                    "originalPrice": 8990000,
+                    "currentPrice": 8490000,
+                    "statusOnWeb": {
+                        "code": 11,
+                        "displayName": "Mua ngay"
+                    },
+                    "productStatus": {
+                        "code": 2,
+                        "displayName": "Order"
+                    },
+                    "endTimeDiscount": "2024-10-31T23:59:00.000+07:00",
+                    "discountPercentage": 6,
+                    "newPrice": 0,
+                    "qtyAvailable": 0,
+                    "promotions": [
+                        {
+                            "content": "Chủ thẻ Sacombank: Giảm thêm 200,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/sac-1695660073240.png",
+                                "title": "KM-0924-0818"
+                            }
+                        },
+                        {
+                            "content": "Giảm 5% cho đơn từ 53,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
+                                "title": "KM-0924-0974"
+                            }
+                        },
+                        {
+                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
+                                "title": "KM-0324-0943"
+                            }
+                        },
+                        {
+                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
+                                "title": "KM-0524-1074"
+                            }
+                        },
+                        {
+                            "content": "Giảm đến 1 triệu trả góp qua thẻ Visa",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/logo%20VIS%20%281%29-1710755734895.jpeg",
+                                "title": "KM-0924-0538"
+                            }
+                        }
+                    ],
+                    "variants": [
+                        {
+                            "propertyName": "color",
+                            "displayValue": "Xanh Đen",
+                            "value": "Xanh Đen",
+                            "displayOrder": 0,
+                            "code": "#2b3d3c"
+                        },
+                        {
+                            "displayOrder": 1,
+                            "code": null,
+                            "displayValue": "256 GB",
+                            "propertyName": "rom",
+                            "value": "256"
+                        }
+                    ],
+                    "image": "https://cdn2.fptshop.com.vn/unsafe/2024_3_1_638449312178509644_oppo-reno11-f-xanh-den-2.png",
                     "badges": [],
                     "labels": [
                         {
@@ -38665,85 +38665,6 @@
                 {
                     "name": "iPhone 14 Plus 128GB",
                     "displayName": "iPhone 14 Plus 128GB",
-                    "sku": "00863454",
-                    "type": "Normal",
-                    "slug": "dien-thoai/iphone-14-plus-128gb?sku=00863454",
-                    "refCode": "00863454",
-                    "isShowPriceText": false,
-                    "displayPriceText": "",
-                    "originalPrice": 24990000,
-                    "currentPrice": 19990000,
-                    "statusOnWeb": {
-                        "code": 11,
-                        "displayName": "Mua ngay"
-                    },
-                    "productStatus": {
-                        "code": 2,
-                        "displayName": "Order"
-                    },
-                    "endTimeDiscount": "2024-10-21T23:59:00.000+07:00",
-                    "discountPercentage": 20,
-                    "qtyAvailable": 0,
-                    "promotions": [
-                        {
-                            "content": "Chủ thẻ OCB: Giảm thêm 500,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/OCB-1695659775285.png",
-                                "title": "KM-0724-0777"
-                            }
-                        },
-                        {
-                            "content": "Giảm 5% cho đơn từ 53,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
-                                "title": "KM-0924-0974"
-                            }
-                        },
-                        {
-                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
-                                "title": "KM-0324-0943"
-                            }
-                        },
-                        {
-                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
-                                "title": "KM-0524-1074"
-                            }
-                        }
-                    ],
-                    "variants": [
-                        {
-                            "propertyName": "color",
-                            "displayValue": "Vàng",
-                            "value": "Vàng",
-                            "displayOrder": 0,
-                            "code": "#F0D95B"
-                        },
-                        {
-                            "displayOrder": 1,
-                            "code": null,
-                            "displayValue": "128 GB",
-                            "propertyName": "rom",
-                            "value": "128"
-                        }
-                    ],
-                    "image": "https://cdn2.fptshop.com.vn/unsafe/2023_3_7_638138235534661110_iphone-14-plus-vang-1.jpg",
-                    "badges": [],
-                    "labels": [
-                        {
-                            "name": "Trả góp 0%",
-                            "code": "zero",
-                            "discountAmount": 0,
-                            "image": "/"
-                        }
-                    ]
-                },
-                {
-                    "name": "iPhone 14 Plus 128GB",
-                    "displayName": "iPhone 14 Plus 128GB",
                     "sku": "00832875",
                     "type": "Normal",
                     "slug": "dien-thoai/iphone-14-plus-128gb?sku=00832875",
@@ -38821,16 +38742,16 @@
                     ]
                 },
                 {
-                    "name": "iPhone 14 Plus 512GB",
-                    "displayName": "iPhone 14 Plus 512GB",
-                    "sku": "00832884",
+                    "name": "iPhone 14 Plus 128GB",
+                    "displayName": "iPhone 14 Plus 128GB",
+                    "sku": "00863454",
                     "type": "Normal",
-                    "slug": "dien-thoai/iphone-14-plus-512gb?sku=00832884",
-                    "refCode": "00832884",
+                    "slug": "dien-thoai/iphone-14-plus-128gb?sku=00863454",
+                    "refCode": "00863454",
                     "isShowPriceText": false,
                     "displayPriceText": "",
-                    "originalPrice": 32990000,
-                    "currentPrice": 24990000,
+                    "originalPrice": 24990000,
+                    "currentPrice": 19990000,
                     "statusOnWeb": {
                         "code": 11,
                         "displayName": "Mua ngay"
@@ -38840,7 +38761,7 @@
                         "displayName": "Order"
                     },
                     "endTimeDiscount": "2024-10-21T23:59:00.000+07:00",
-                    "discountPercentage": 24,
+                    "discountPercentage": 20,
                     "qtyAvailable": 0,
                     "promotions": [
                         {
@@ -38875,20 +38796,20 @@
                     "variants": [
                         {
                             "propertyName": "color",
-                            "displayValue": "Đen",
-                            "value": "Đen",
+                            "displayValue": "Vàng",
+                            "value": "Vàng",
                             "displayOrder": 0,
-                            "code": "#232A31"
+                            "code": "#F0D95B"
                         },
                         {
-                            "displayOrder": 2,
+                            "displayOrder": 1,
                             "code": null,
-                            "displayValue": "512 GB",
+                            "displayValue": "128 GB",
                             "propertyName": "rom",
-                            "value": "512"
+                            "value": "128"
                         }
                     ],
-                    "image": "https://cdn2.fptshop.com.vn/unsafe/2022_11_30_638054163867313882_ip-14-plus-den-1.jpg",
+                    "image": "https://cdn2.fptshop.com.vn/unsafe/2023_3_7_638138235534661110_iphone-14-plus-vang-1.jpg",
                     "badges": [],
                     "labels": [
                         {
@@ -38968,6 +38889,85 @@
                         }
                     ],
                     "image": "https://cdn2.fptshop.com.vn/unsafe/2022_11_30_638054166106341023_ip-14-plus-do-1.jpg",
+                    "badges": [],
+                    "labels": [
+                        {
+                            "name": "Trả góp 0%",
+                            "code": "zero",
+                            "discountAmount": 0,
+                            "image": "/"
+                        }
+                    ]
+                },
+                {
+                    "name": "iPhone 14 Plus 512GB",
+                    "displayName": "iPhone 14 Plus 512GB",
+                    "sku": "00832884",
+                    "type": "Normal",
+                    "slug": "dien-thoai/iphone-14-plus-512gb?sku=00832884",
+                    "refCode": "00832884",
+                    "isShowPriceText": false,
+                    "displayPriceText": "",
+                    "originalPrice": 32990000,
+                    "currentPrice": 24990000,
+                    "statusOnWeb": {
+                        "code": 11,
+                        "displayName": "Mua ngay"
+                    },
+                    "productStatus": {
+                        "code": 2,
+                        "displayName": "Order"
+                    },
+                    "endTimeDiscount": "2024-10-21T23:59:00.000+07:00",
+                    "discountPercentage": 24,
+                    "qtyAvailable": 0,
+                    "promotions": [
+                        {
+                            "content": "Chủ thẻ OCB: Giảm thêm 500,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/OCB-1695659775285.png",
+                                "title": "KM-0724-0777"
+                            }
+                        },
+                        {
+                            "content": "Giảm 5% cho đơn từ 53,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
+                                "title": "KM-0924-0974"
+                            }
+                        },
+                        {
+                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
+                                "title": "KM-0324-0943"
+                            }
+                        },
+                        {
+                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
+                                "title": "KM-0524-1074"
+                            }
+                        }
+                    ],
+                    "variants": [
+                        {
+                            "propertyName": "color",
+                            "displayValue": "Đen",
+                            "value": "Đen",
+                            "displayOrder": 0,
+                            "code": "#232A31"
+                        },
+                        {
+                            "displayOrder": 2,
+                            "code": null,
+                            "displayValue": "512 GB",
+                            "propertyName": "rom",
+                            "value": "512"
+                        }
+                    ],
+                    "image": "https://cdn2.fptshop.com.vn/unsafe/2022_11_30_638054163867313882_ip-14-plus-den-1.jpg",
                     "badges": [],
                     "labels": [
                         {
@@ -43254,31 +43254,251 @@
             ]
         },
         {
-            "score": 8.916192,
-            "code": "580325129372",
-            "name": "Realme C51 3GB",
-            "displayName": "Realme C51 3GB",
+            "score": 9.017273,
+            "code": "453368913582",
+            "name": "Xiaomi Redmi Note 13 Pro Plus 5G 8GB",
+            "displayName": "Xiaomi Redmi Note 13 Pro Plus 5G 8GB",
             "typePim": "Normal",
             "type": "Normal",
-            "slug": "dien-thoai/realme-c51-3gb",
-            "price": 2990000,
+            "slug": "dien-thoai/xiaomi-redmi-note-13-pro-plus",
+            "price": 10990000,
             "industry": {
                 "code": "01",
                 "name": "Điện thoại"
             },
             "brand": {
-                "code": "390",
-                "name": "Realme"
+                "code": "352",
+                "name": "Xiaomi"
             },
             "productType": {
                 "code": "01001",
                 "name": "Android"
             },
             "group": {
-                "code": "01001015",
-                "name": "Realme C Series"
+                "code": "01001017",
+                "name": "Redmi Note Series"
             },
             "keySellingPoints": [
+                {
+                    "id": 0,
+                    "code": 876,
+                    "icon": "https://cdn2.fptshop.com.vn/svg/ic_cam_a9461d9c4e.svg",
+                    "title": "Camera 200MP",
+                    "description": ""
+                },
+                {
+                    "id": 0,
+                    "code": 898,
+                    "icon": "https://cdn2.fptshop.com.vn/svg/ic_battery_charge_c0e32235b5.svg",
+                    "title": "Sạc nhanh 120W",
+                    "description": ""
+                },
+                {
+                    "id": 0,
+                    "code": 920,
+                    "icon": "https://cdn2.fptshop.com.vn/svg/ic_mobile_screen_2df654a803.svg",
+                    "title": "Màn hình 1.5K AMOLED",
+                    "description": ""
+                }
+            ],
+            "units": [
+                {
+                    "isDefault": true,
+                    "code": 5,
+                    "level": 1,
+                    "name": "Cái",
+                    "ratio": 0
+                }
+            ],
+            "image": {
+                "src": "https://cdn2.fptshop.com.vn/unsafe/2024_1_16_638409959984501861_xiaomi-redmi-note-13-pro-plus-tim-5.png",
+                "title": "Xiaomi Redmi Note 13 Pro Plus 5G 8GB"
+            },
+            "originalPrice": 10990000,
+            "currentPrice": 9690000,
+            "discountPercentage": 12,
+            "endTimeDiscount": "2024-10-31T23:59:00.000+07:00",
+            "promotions": [
+                {
+                    "content": "Chủ thẻ Sacombank: Giảm thêm 200,000đ",
+                    "image": {
+                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/sac-1695660073240.png",
+                        "title": "KM-0924-0818"
+                    }
+                },
+                {
+                    "content": "Chủ thẻ OCB: Giảm thêm 500,000đ",
+                    "image": {
+                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/OCB-1695659775285.png",
+                        "title": "KM-0724-0777"
+                    }
+                },
+                {
+                    "content": "Giảm 5% cho đơn từ 53,000đ",
+                    "image": {
+                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
+                        "title": "KM-0924-0974"
+                    }
+                },
+                {
+                    "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
+                    "image": {
+                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
+                        "title": "KM-0324-0943"
+                    }
+                },
+                {
+                    "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
+                    "image": {
+                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
+                        "title": "KM-0524-1074"
+                    }
+                },
+                {
+                    "content": "Giảm đến 1 triệu trả góp qua thẻ Visa",
+                    "image": {
+                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/logo%20VIS%20%281%29-1710755734895.jpeg",
+                        "title": "KM-0924-0538"
+                    }
+                }
+            ],
+            "totalInventory": 0,
+            "skus": [
+                {
+                    "name": "Xiaomi Redmi Note 13 Pro+ 5G 8GB-256GB",
+                    "displayName": "Xiaomi Redmi Note 13 Pro+ 5G 8GB-256GB",
+                    "sku": "00905913",
+                    "type": "Normal",
+                    "slug": "dien-thoai/xiaomi-redmi-note-13-pro-plus?sku=00905913",
+                    "refCode": "",
+                    "isShowPriceText": false,
+                    "displayPriceText": "",
+                    "originalPrice": 10990000,
+                    "currentPrice": 9690000,
+                    "statusOnWeb": {
+                        "code": 11,
+                        "displayName": "Mua ngay"
+                    },
+                    "productStatus": {
+                        "code": 2,
+                        "displayName": "Order"
+                    },
+                    "endTimeDiscount": "2024-10-31T23:59:00.000+07:00",
+                    "discountPercentage": 12,
+                    "newPrice": 0,
+                    "qtyAvailable": 0,
+                    "promotions": [
+                        {
+                            "content": "Chủ thẻ Sacombank: Giảm thêm 200,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/sac-1695660073240.png",
+                                "title": "KM-0924-0818"
+                            }
+                        },
+                        {
+                            "content": "Chủ thẻ OCB: Giảm thêm 500,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/OCB-1695659775285.png",
+                                "title": "KM-0724-0777"
+                            }
+                        },
+                        {
+                            "content": "Giảm 5% cho đơn từ 53,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
+                                "title": "KM-0924-0974"
+                            }
+                        },
+                        {
+                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
+                                "title": "KM-0324-0943"
+                            }
+                        },
+                        {
+                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
+                                "title": "KM-0524-1074"
+                            }
+                        },
+                        {
+                            "content": "Giảm đến 1 triệu trả góp qua thẻ Visa",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/logo%20VIS%20%281%29-1710755734895.jpeg",
+                                "title": "KM-0924-0538"
+                            }
+                        }
+                    ],
+                    "variants": [
+                        {
+                            "propertyName": "color",
+                            "displayValue": "Đen",
+                            "value": "Đen",
+                            "displayOrder": 0,
+                            "code": "#201f1d"
+                        },
+                        {
+                            "displayOrder": 1,
+                            "code": null,
+                            "displayValue": "256 GB",
+                            "propertyName": "rom",
+                            "value": "256"
+                        }
+                    ],
+                    "image": "https://cdn2.fptshop.com.vn/unsafe/2024_1_16_638409957699361308_xiaomi-redmi-note-13-pro-plus-den-2.png",
+                    "badges": [
+                        {
+                            "id": 13,
+                            "name": "Bảo hành 18 tháng",
+                            "image": "https://cdn2.fptshop.com.vn/svg/Bao_hanh_18_thang_c5d1dc3114.svg"
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "Trả góp 0%",
+                            "code": "zero",
+                            "discountAmount": 0,
+                            "image": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "score": 9.017273,
+            "code": "230648039763",
+            "name": "Redmi 13C 6GB",
+            "displayName": "Redmi 13C 6GB",
+            "typePim": "Normal",
+            "type": "Normal",
+            "slug": "dien-thoai/xiaomi-redmi-13c",
+            "price": 3490000,
+            "industry": {
+                "code": "01",
+                "name": "Điện thoại"
+            },
+            "brand": {
+                "code": "352",
+                "name": "Xiaomi"
+            },
+            "productType": {
+                "code": "01001",
+                "name": "Android"
+            },
+            "group": {
+                "code": "01001018",
+                "name": "Redmi Series"
+            },
+            "keySellingPoints": [
+                {
+                    "id": 0,
+                    "code": 878,
+                    "icon": "https://cdn2.fptshop.com.vn/svg/ic_cam_a9461d9c4e.svg",
+                    "title": "Camera AI 50MP",
+                    "description": ""
+                },
                 {
                     "id": 0,
                     "code": 906,
@@ -43292,13 +43512,6 @@
                     "icon": "https://cdn2.fptshop.com.vn/svg/ic_battery_9e90c55554.svg",
                     "title": "Pin 5000mAh",
                     "description": ""
-                },
-                {
-                    "id": 0,
-                    "code": 983,
-                    "icon": "https://cdn2.fptshop.com.vn/svg/ic_ram_slot_ce8615b82d.svg",
-                    "title": "RAM 3GB",
-                    "description": ""
                 }
             ],
             "units": [
@@ -43311,12 +43524,12 @@
                 }
             ],
             "image": {
-                "src": "https://cdn2.fptshop.com.vn/unsafe/2023_11_20_638360873392212025_realme-c51-3gb-64gb-dd.jpg",
-                "title": "Realme C51 3GB"
+                "src": "https://cdn2.fptshop.com.vn/unsafe/2023_11_7_638349478237981356_realme-13c-xanh-5.jpg",
+                "title": "Redmi 13C 6GB"
             },
-            "originalPrice": 2990000,
-            "currentPrice": 2190000,
-            "discountPercentage": 27,
+            "originalPrice": 3490000,
+            "currentPrice": 2990000,
+            "discountPercentage": 14,
             "endTimeDiscount": "2024-10-31T16:59:00.000+07:00",
             "promotions": [
                 {
@@ -43351,16 +43564,16 @@
             "totalInventory": 0,
             "skus": [
                 {
-                    "name": "Realme C51 3GB 64GB",
-                    "displayName": "Realme C51 3GB 64GB",
-                    "sku": "00905437",
+                    "name": "Xiaomi Redmi 13C 6GB-128GB",
+                    "displayName": "Xiaomi Redmi 13C 6GB-128GB",
+                    "sku": "00905315",
                     "type": "Normal",
-                    "slug": "dien-thoai/realme-c51-3gb-64gb?sku=00905437",
+                    "slug": "dien-thoai/xiaomi-redmi-13c?sku=00905315",
                     "refCode": "",
                     "isShowPriceText": false,
                     "displayPriceText": "",
-                    "originalPrice": 2990000,
-                    "currentPrice": 2190000,
+                    "originalPrice": 3490000,
+                    "currentPrice": 2990000,
                     "statusOnWeb": {
                         "code": 11,
                         "displayName": "Mua ngay"
@@ -43370,80 +43583,7 @@
                         "displayName": "Order"
                     },
                     "endTimeDiscount": "2024-10-31T16:59:00.000+07:00",
-                    "discountPercentage": 27,
-                    "newPrice": 0,
-                    "qtyAvailable": 0,
-                    "promotions": [
-                        {
-                            "content": "Giảm 5% cho đơn từ 53,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
-                                "title": "KM-0924-0974"
-                            }
-                        },
-                        {
-                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
-                                "title": "KM-0324-0943"
-                            }
-                        },
-                        {
-                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
-                                "title": "KM-0524-1074"
-                            }
-                        },
-                        {
-                            "content": "Giảm đến 1 triệu trả góp qua thẻ Visa",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/logo%20VIS%20%281%29-1710755734895.jpeg",
-                                "title": "KM-0924-0538"
-                            }
-                        }
-                    ],
-                    "variants": [
-                        {
-                            "propertyName": "color",
-                            "displayValue": "Xanh ngọc",
-                            "value": "Xanh ngọc",
-                            "displayOrder": 0,
-                            "code": "#009dcd"
-                        },
-                        {
-                            "displayOrder": 1,
-                            "code": null,
-                            "displayValue": "64 GB",
-                            "propertyName": "rom",
-                            "value": "64"
-                        }
-                    ],
-                    "image": "https://cdn2.fptshop.com.vn/unsafe/2023_11_20_638360873391430729_realme-c51-3gb-64gb-xanh-4.jpg",
-                    "badges": [],
-                    "labels": []
-                },
-                {
-                    "name": "Realme C51 3GB 64GB",
-                    "displayName": "Realme C51 3GB 64GB",
-                    "sku": "00905436",
-                    "type": "Normal",
-                    "slug": "dien-thoai/realme-c51-3gb-64gb",
-                    "refCode": "",
-                    "isShowPriceText": false,
-                    "displayPriceText": "",
-                    "originalPrice": 2990000,
-                    "currentPrice": 2190000,
-                    "statusOnWeb": {
-                        "code": 11,
-                        "displayName": "Mua ngay"
-                    },
-                    "productStatus": {
-                        "code": 2,
-                        "displayName": "Order"
-                    },
-                    "endTimeDiscount": "2024-10-31T16:59:00.000+07:00",
-                    "discountPercentage": 27,
+                    "discountPercentage": 14,
                     "newPrice": 0,
                     "qtyAvailable": 0,
                     "promotions": [
@@ -43482,24 +43622,37 @@
                             "displayValue": "Đen",
                             "value": "Đen",
                             "displayOrder": 0,
-                            "code": "#000000"
+                            "code": "#201f1d"
                         },
                         {
                             "displayOrder": 1,
                             "code": null,
-                            "displayValue": "64 GB",
+                            "displayValue": "128 GB",
                             "propertyName": "rom",
-                            "value": "64"
+                            "value": "128"
                         }
                     ],
-                    "image": "https://cdn2.fptshop.com.vn/unsafe/2023_11_20_638360874155107345_realme-c51-3gb-64gb-den-2.jpg",
-                    "badges": [],
-                    "labels": []
+                    "image": "https://cdn2.fptshop.com.vn/unsafe/2023_11_7_638349482643145768_realme-13c-den-4.jpg",
+                    "badges": [
+                        {
+                            "id": 13,
+                            "name": "Bảo hành 18 tháng",
+                            "image": "https://cdn2.fptshop.com.vn/svg/Bao_hanh_18_thang_c5d1dc3114.svg"
+                        }
+                    ],
+                    "labels": [
+                        {
+                            "name": "Trả góp 0%",
+                            "code": "zero",
+                            "discountAmount": 0,
+                            "image": "/"
+                        }
+                    ]
                 }
             ]
         },
         {
-            "score": 8.867277,
+            "score": 8.996862,
             "code": "171536729716",
             "name": "Tecno Camon 30 12GB",
             "displayName": "Tecno Camon 30 12GB",
@@ -43775,385 +43928,14 @@
             ]
         },
         {
-            "score": 8.867277,
-            "code": "543667977757",
-            "name": "OPPO Reno10 5G 8GB",
-            "displayName": "OPPO Reno10 5G 8GB",
-            "typePim": "Normal",
-            "type": "Normal",
-            "slug": "dien-thoai/oppo-reno10-5g",
-            "price": 9990000,
-            "industry": {
-                "code": "01",
-                "name": "Điện thoại"
-            },
-            "brand": {
-                "code": "170",
-                "name": "Oppo"
-            },
-            "productType": {
-                "code": "01001",
-                "name": "Android"
-            },
-            "group": {
-                "code": "01001013",
-                "name": "Oppo Reno Series"
-            },
-            "keySellingPoints": [
-                {
-                    "id": 0,
-                    "code": 877,
-                    "icon": "https://cdn2.fptshop.com.vn/svg/ic_cam_a9461d9c4e.svg",
-                    "title": "Camera 64MP",
-                    "description": ""
-                },
-                {
-                    "id": 0,
-                    "code": 899,
-                    "icon": "https://cdn2.fptshop.com.vn/svg/ic_mobile_screen_2df654a803.svg",
-                    "title": "Màn hình cong 3D",
-                    "description": "120Hz"
-                },
-                {
-                    "id": 0,
-                    "code": 928,
-                    "icon": "https://cdn2.fptshop.com.vn/svg/ic_battery_charge_c0e32235b5.svg",
-                    "title": "Pin 5000mAh, Sạc 67W",
-                    "description": ""
-                }
-            ],
-            "units": [
-                {
-                    "isDefault": true,
-                    "code": 8,
-                    "level": 1,
-                    "name": "Chiếc",
-                    "ratio": 0
-                }
-            ],
-            "image": {
-                "src": "https://cdn2.fptshop.com.vn/unsafe/2023_7_19_638253719455954445_oppo-reno10-5g-dd.jpg",
-                "title": "OPPO Reno10 5G 8GB"
-            },
-            "originalPrice": 9990000,
-            "currentPrice": 7990000,
-            "discountPercentage": 20,
-            "endTimeDiscount": "2024-10-21T23:59:00.000+07:00",
-            "promotions": [
-                {
-                    "content": "Chủ thẻ Sacombank: Giảm thêm 200,000đ",
-                    "image": {
-                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/sac-1695660073240.png",
-                        "title": "KM-0924-0818"
-                    }
-                },
-                {
-                    "content": "Giảm 5% cho đơn từ 53,000đ",
-                    "image": {
-                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
-                        "title": "KM-0924-0974"
-                    }
-                },
-                {
-                    "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
-                    "image": {
-                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
-                        "title": "KM-0324-0943"
-                    }
-                },
-                {
-                    "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
-                    "image": {
-                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
-                        "title": "KM-0524-1074"
-                    }
-                },
-                {
-                    "content": "Giảm đến 1 triệu trả góp qua thẻ Visa",
-                    "image": {
-                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/logo%20VIS%20%281%29-1710755734895.jpeg",
-                        "title": "KM-0924-0538"
-                    }
-                }
-            ],
-            "totalInventory": 0,
-            "skus": [
-                {
-                    "name": "OPPO Reno10 5G 128GB",
-                    "displayName": "OPPO Reno10 5G 128GB",
-                    "sku": "00900772",
-                    "type": "Normal",
-                    "slug": "dien-thoai/oppo-reno10-5g-128gb?sku=00900772",
-                    "refCode": "",
-                    "isShowPriceText": false,
-                    "displayPriceText": "",
-                    "originalPrice": 9990000,
-                    "currentPrice": 7990000,
-                    "statusOnWeb": {
-                        "code": 11,
-                        "displayName": "Mua ngay"
-                    },
-                    "productStatus": {
-                        "code": 2,
-                        "displayName": "Order"
-                    },
-                    "endTimeDiscount": "2024-10-21T23:59:00.000+07:00",
-                    "discountPercentage": 20,
-                    "newPrice": 0,
-                    "qtyAvailable": 0,
-                    "promotions": [
-                        {
-                            "content": "Chủ thẻ Sacombank: Giảm thêm 200,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/sac-1695660073240.png",
-                                "title": "KM-0924-0818"
-                            }
-                        },
-                        {
-                            "content": "Giảm 5% cho đơn từ 53,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
-                                "title": "KM-0924-0974"
-                            }
-                        },
-                        {
-                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
-                                "title": "KM-0324-0943"
-                            }
-                        },
-                        {
-                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
-                                "title": "KM-0524-1074"
-                            }
-                        },
-                        {
-                            "content": "Giảm đến 1 triệu trả góp qua thẻ Visa",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/logo%20VIS%20%281%29-1710755734895.jpeg",
-                                "title": "KM-0924-0538"
-                            }
-                        }
-                    ],
-                    "variants": [
-                        {
-                            "displayOrder": 1,
-                            "code": null,
-                            "displayValue": "128 GB",
-                            "propertyName": "rom",
-                            "value": "128"
-                        },
-                        {
-                            "propertyName": "color",
-                            "displayValue": "Xanh",
-                            "value": "Xanh",
-                            "displayOrder": 0,
-                            "code": "#009dcd"
-                        }
-                    ],
-                    "image": "https://cdn2.fptshop.com.vn/unsafe/2023_7_12_638247789994964040_oppo-reno10-5g-xanh-4.jpg",
-                    "badges": [],
-                    "labels": [
-                        {
-                            "name": "Trả góp 0%",
-                            "code": "zero",
-                            "discountAmount": 0,
-                            "image": "/"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "score": 8.851974,
-            "code": "859112435323",
-            "name": "OPPO A17 4GB-64GB",
-            "displayName": "OPPO A17 4GB-64GB",
-            "typePim": "Normal",
-            "type": "Normal",
-            "slug": "dien-thoai/oppo-a17",
-            "price": 3990000,
-            "industry": {
-                "code": "01",
-                "name": "Điện thoại"
-            },
-            "brand": {
-                "code": "170",
-                "name": "Oppo"
-            },
-            "productType": {
-                "code": "01001",
-                "name": "Android"
-            },
-            "group": {
-                "code": "01001010",
-                "name": "Oppo A Series"
-            },
-            "keySellingPoints": [
-                {
-                    "id": 0,
-                    "code": 878,
-                    "icon": "https://cdn2.fptshop.com.vn/svg/ic_cam_a9461d9c4e.svg",
-                    "title": "Camera AI 50MP",
-                    "description": ""
-                },
-                {
-                    "id": 0,
-                    "code": 897,
-                    "icon": "https://cdn2.fptshop.com.vn/svg/ic_water_resistant_f2193d2539.svg",
-                    "title": "Kháng nước",
-                    "description": "chuẩn IPX4"
-                },
-                {
-                    "id": 0,
-                    "code": 932,
-                    "icon": "https://cdn2.fptshop.com.vn/svg/ic_battery_9e90c55554.svg",
-                    "title": "Pin khủng 5000mAh",
-                    "description": ""
-                }
-            ],
-            "units": [
-                {
-                    "isDefault": true,
-                    "code": 8,
-                    "level": 1,
-                    "name": "Chiếc",
-                    "ratio": 0
-                }
-            ],
-            "image": {
-                "src": "https://cdn2.fptshop.com.vn/unsafe/2022_12_20_638071513576393682_oppo-a17-dd.jpg",
-                "title": "OPPO A17 4GB-64GB"
-            },
-            "originalPrice": 3990000,
-            "currentPrice": 2990000,
-            "discountPercentage": 25,
-            "endTimeDiscount": "2024-10-31T23:59:00.000+07:00",
-            "promotions": [
-                {
-                    "content": "Giảm 5% cho đơn từ 53,000đ",
-                    "image": {
-                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
-                        "title": "KM-0924-0974"
-                    }
-                },
-                {
-                    "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
-                    "image": {
-                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
-                        "title": "KM-0324-0943"
-                    }
-                },
-                {
-                    "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
-                    "image": {
-                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
-                        "title": "KM-0524-1074"
-                    }
-                },
-                {
-                    "content": "Giảm đến 1 triệu trả góp qua thẻ Visa",
-                    "image": {
-                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/logo%20VIS%20%281%29-1710755734895.jpeg",
-                        "title": "KM-0924-0538"
-                    }
-                }
-            ],
-            "totalInventory": 0,
-            "skus": [
-                {
-                    "name": "OPPO A17 4GB-64GB",
-                    "displayName": "OPPO A17 4GB-64GB",
-                    "sku": "00834686",
-                    "type": "Normal",
-                    "slug": "dien-thoai/oppo-a17?sku=00834686",
-                    "refCode": "00834686",
-                    "isShowPriceText": false,
-                    "displayPriceText": "",
-                    "originalPrice": 3990000,
-                    "currentPrice": 2990000,
-                    "statusOnWeb": {
-                        "code": 11,
-                        "displayName": "Mua ngay"
-                    },
-                    "productStatus": {
-                        "code": 2,
-                        "displayName": "Order"
-                    },
-                    "endTimeDiscount": "2024-10-31T23:59:00.000+07:00",
-                    "discountPercentage": 25,
-                    "qtyAvailable": 0,
-                    "promotions": [
-                        {
-                            "content": "Giảm 5% cho đơn từ 53,000đ",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
-                                "title": "KM-0924-0974"
-                            }
-                        },
-                        {
-                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
-                                "title": "KM-0324-0943"
-                            }
-                        },
-                        {
-                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
-                                "title": "KM-0524-1074"
-                            }
-                        },
-                        {
-                            "content": "Giảm đến 1 triệu trả góp qua thẻ Visa",
-                            "image": {
-                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/logo%20VIS%20%281%29-1710755734895.jpeg",
-                                "title": "KM-0924-0538"
-                            }
-                        }
-                    ],
-                    "variants": [
-                        {
-                            "propertyName": "color",
-                            "displayValue": "Xanh",
-                            "value": "Xanh",
-                            "displayOrder": 0,
-                            "code": "#4F5A61"
-                        },
-                        {
-                            "displayOrder": 1,
-                            "code": null,
-                            "displayValue": "64 GB",
-                            "propertyName": "rom",
-                            "value": "64"
-                        }
-                    ],
-                    "image": "https://cdn2.fptshop.com.vn/unsafe/2022_10_17_638016280150427116_oppo-a17-xanh-3.jpg",
-                    "badges": [],
-                    "labels": [
-                        {
-                            "name": "Trả góp 0%",
-                            "code": "zero",
-                            "discountAmount": 0,
-                            "image": "/"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "score": 8.814584,
+            "score": 8.978945,
             "code": "859113547525",
             "name": "Samsung Galaxy A54 5G",
             "displayName": "Samsung Galaxy A54 5G",
             "typePim": "Normal",
             "type": "Normal",
             "slug": "dien-thoai/samsung-galaxy-a54-5g",
-            "price": 10490000,
+            "price": 11490000,
             "industry": {
                 "code": "01",
                 "name": "Điện thoại"
@@ -44184,9 +43966,9 @@
                 "src": "https://cdn2.fptshop.com.vn/unsafe/2024_6_10_638535778604975350_samsung-galaxy-a54.png",
                 "title": "Samsung Galaxy A54 5G"
             },
-            "originalPrice": 10490000,
-            "currentPrice": 8990000,
-            "discountPercentage": 14,
+            "originalPrice": 11490000,
+            "currentPrice": 9990000,
+            "discountPercentage": 13,
             "endTimeDiscount": "2024-10-31T23:59:00.000+07:00",
             "promotions": [
                 {
@@ -44423,7 +44205,200 @@
             ]
         },
         {
-            "score": 8.070972,
+            "score": 8.867277,
+            "code": "543667977757",
+            "name": "OPPO Reno10 5G 8GB",
+            "displayName": "OPPO Reno10 5G 8GB",
+            "typePim": "Normal",
+            "type": "Normal",
+            "slug": "dien-thoai/oppo-reno10-5g",
+            "price": 9990000,
+            "industry": {
+                "code": "01",
+                "name": "Điện thoại"
+            },
+            "brand": {
+                "code": "170",
+                "name": "Oppo"
+            },
+            "productType": {
+                "code": "01001",
+                "name": "Android"
+            },
+            "group": {
+                "code": "01001013",
+                "name": "Oppo Reno Series"
+            },
+            "keySellingPoints": [
+                {
+                    "id": 0,
+                    "code": 877,
+                    "icon": "https://cdn2.fptshop.com.vn/svg/ic_cam_a9461d9c4e.svg",
+                    "title": "Camera 64MP",
+                    "description": ""
+                },
+                {
+                    "id": 0,
+                    "code": 899,
+                    "icon": "https://cdn2.fptshop.com.vn/svg/ic_mobile_screen_2df654a803.svg",
+                    "title": "Màn hình cong 3D",
+                    "description": "120Hz"
+                },
+                {
+                    "id": 0,
+                    "code": 928,
+                    "icon": "https://cdn2.fptshop.com.vn/svg/ic_battery_charge_c0e32235b5.svg",
+                    "title": "Pin 5000mAh, Sạc 67W",
+                    "description": ""
+                }
+            ],
+            "units": [
+                {
+                    "isDefault": true,
+                    "code": 8,
+                    "level": 1,
+                    "name": "Chiếc",
+                    "ratio": 0
+                }
+            ],
+            "image": {
+                "src": "https://cdn2.fptshop.com.vn/unsafe/2023_7_19_638253719455954445_oppo-reno10-5g-dd.jpg",
+                "title": "OPPO Reno10 5G 8GB"
+            },
+            "originalPrice": 9990000,
+            "currentPrice": 7990000,
+            "discountPercentage": 20,
+            "endTimeDiscount": "2024-10-21T23:59:00.000+07:00",
+            "promotions": [
+                {
+                    "content": "Chủ thẻ Sacombank: Giảm thêm 200,000đ",
+                    "image": {
+                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/sac-1695660073240.png",
+                        "title": "KM-0924-0818"
+                    }
+                },
+                {
+                    "content": "Giảm 5% cho đơn từ 53,000đ",
+                    "image": {
+                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
+                        "title": "KM-0924-0974"
+                    }
+                },
+                {
+                    "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
+                    "image": {
+                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
+                        "title": "KM-0324-0943"
+                    }
+                },
+                {
+                    "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
+                    "image": {
+                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
+                        "title": "KM-0524-1074"
+                    }
+                },
+                {
+                    "content": "Giảm đến 1 triệu trả góp qua thẻ Visa",
+                    "image": {
+                        "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/logo%20VIS%20%281%29-1710755734895.jpeg",
+                        "title": "KM-0924-0538"
+                    }
+                }
+            ],
+            "totalInventory": 0,
+            "skus": [
+                {
+                    "name": "OPPO Reno10 5G 128GB",
+                    "displayName": "OPPO Reno10 5G 128GB",
+                    "sku": "00900772",
+                    "type": "Normal",
+                    "slug": "dien-thoai/oppo-reno10-5g-128gb?sku=00900772",
+                    "refCode": "",
+                    "isShowPriceText": false,
+                    "displayPriceText": "",
+                    "originalPrice": 9990000,
+                    "currentPrice": 7990000,
+                    "statusOnWeb": {
+                        "code": 11,
+                        "displayName": "Mua ngay"
+                    },
+                    "productStatus": {
+                        "code": 2,
+                        "displayName": "Order"
+                    },
+                    "endTimeDiscount": "2024-10-21T23:59:00.000+07:00",
+                    "discountPercentage": 20,
+                    "newPrice": 0,
+                    "qtyAvailable": 0,
+                    "promotions": [
+                        {
+                            "content": "Chủ thẻ Sacombank: Giảm thêm 200,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/sac-1695660073240.png",
+                                "title": "KM-0924-0818"
+                            }
+                        },
+                        {
+                            "content": "Giảm 5% cho đơn từ 53,000đ",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/HpL-1706257898463.jpeg",
+                                "title": "KM-0924-0974"
+                            }
+                        },
+                        {
+                            "content": "Giảm ngay 1 triệu khi mở thẻ tín dụng VPBank",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/Logo-1711608161110.jpeg",
+                                "title": "KM-0324-0943"
+                            }
+                        },
+                        {
+                            "content": "Giảm đến 700.000đ khi thanh toán trả góp qua Kredivo",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/t%E1%BA%A3i%20xu%E1%BB%91ng-1695965883711.png",
+                                "title": "KM-0524-1074"
+                            }
+                        },
+                        {
+                            "content": "Giảm đến 1 triệu trả góp qua thẻ Visa",
+                            "image": {
+                                "src": "https://s3-sgn09.fptcloud.com/ict-k8s-promotion-prod/images-promotion/logo%20VIS%20%281%29-1710755734895.jpeg",
+                                "title": "KM-0924-0538"
+                            }
+                        }
+                    ],
+                    "variants": [
+                        {
+                            "displayOrder": 1,
+                            "code": null,
+                            "displayValue": "128 GB",
+                            "propertyName": "rom",
+                            "value": "128"
+                        },
+                        {
+                            "propertyName": "color",
+                            "displayValue": "Xanh",
+                            "value": "Xanh",
+                            "displayOrder": 0,
+                            "code": "#009dcd"
+                        }
+                    ],
+                    "image": "https://cdn2.fptshop.com.vn/unsafe/2023_7_12_638247789994964040_oppo-reno10-5g-xanh-4.jpg",
+                    "badges": [],
+                    "labels": [
+                        {
+                            "name": "Trả góp 0%",
+                            "code": "zero",
+                            "discountAmount": 0,
+                            "image": "/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "score": 7.92211,
             "code": "874453525100",
             "name": "Itel IT9211 4G",
             "displayName": "Itel IT9211 4G",
@@ -44657,7 +44632,7 @@
             ]
         },
         {
-            "score": 8.070972,
+            "score": 7.92211,
             "code": "370379942437",
             "name": "Mobell M539 4G",
             "displayName": "Mobell M539 4G",
@@ -44964,7 +44939,7 @@
             ]
         },
         {
-            "score": 8.070972,
+            "score": 7.92211,
             "code": "92323559251",
             "name": "Mobell M331 4G",
             "displayName": "Mobell M331 4G",
@@ -45271,7 +45246,7 @@
             ]
         },
         {
-            "score": 8.070972,
+            "score": 7.92211,
             "code": "280090611704",
             "name": "Nubia Neo 8GB",
             "displayName": "Nubia Neo 8GB",
@@ -45417,7 +45392,7 @@
             ]
         },
         {
-            "score": 8.070972,
+            "score": 7.92211,
             "code": "435857411417",
             "name": "Nubia Neo 2 8GB",
             "displayName": "Nubia Neo 2 8GB",
@@ -45709,7 +45684,7 @@
             ]
         },
         {
-            "score": 8.070972,
+            "score": 7.92211,
             "code": "842657736212",
             "name": "OPPO A60 8GB",
             "displayName": "OPPO A60 8GB",
@@ -45932,7 +45907,7 @@
             ]
         },
         {
-            "score": 8.070972,
+            "score": 7.92211,
             "code": "123739416006",
             "name": "Samsung Galaxy M15 5G",
             "displayName": "Samsung Galaxy M15 5G",
