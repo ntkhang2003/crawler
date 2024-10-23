@@ -3,9 +3,15 @@ import pandas as pd
 import time
 from bs4 import BeautifulSoup
 import json
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+API_CATEGORY = os.getenv('API_CATEGORY')
+BASE_URL = os.getenv('BASE_URL')
 
 def getData(skipCount = 0, slug = "dien-thoai", maxResultCount = 16):
-    response = requests.post("https://papi.fptshop.com.vn/gw/v1/public/fulltext-search-service/category", json={
+    response = requests.post(API_CATEGORY, json={
         "skipCount": skipCount,
         "maxResultCount": maxResultCount,
         "sortMethod": "noi-bat",
@@ -16,7 +22,7 @@ def getData(skipCount = 0, slug = "dien-thoai", maxResultCount = 16):
         return False
     return response.json()
 
-def extract_data_from_script_with_keyword(url, keyword = "Thông tin hàng hóa"):
+def extract_data_from_script_with_keyword(url, keyword="Thông tin hàng hóa"):
     # Fetch the webpage
     response = requests.get(url)
     if response.status_code != 200:
@@ -45,7 +51,7 @@ def raw_to_table_data(raw_data, slug, keyword):
         for item in raw_data["items"]:
             list_item = item["skus"]
 
-            link = "https://fptshop.com.vn/" + item["slug"]
+            link = BASE_URL + item["slug"]
             detail_info = extract_data_from_script_with_keyword(link, keyword)  
             
             brand = item["brand"]["name"] if "brand" in item else ""
