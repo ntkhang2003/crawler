@@ -113,16 +113,16 @@ category_list = ["dien-thoai", "may-tinh-xach-tay",'may-tinh-bang',"smartwatch",
 #sim-fpt , linh-kien, dien-gia-dung, may-doi-tra
 keyword_list = ["Thông tin hàng hóa","Bộ xử lý","Thông tin hàng hóa","Thông tin hàng hóa","Thông tin hàng hóa","Thông tin hàng hóa","Thông tin hàng hóa","Thông tin hàng hóa",'Bộ xử lý',"Thông tin hàng hóa","Thông tin hàng hóa","Thông tin hàng hóa","Thông tin hàng hóa","Thông tin hàng hóa"]
 
-# for i in range(len(category_list)):
-#     print(f'###Start crawling: {category_list[i]}')
-#     try:
-#         data = crawl_data(category_list[i], keyword_list[i])
-#         df = pd.DataFrame(data)
-#         df.to_csv(f'./data/{category_list[i]}.csv', header=True, encoding='utf-8-sig')
-#     except:
-#         print(f'Error at {category_list[i]}, still continue to crawl')
-#         pass
-#     print(f'###Finish crawling: {category_list[i]}')
+for i in range(len(category_list)):
+    print(f'###Start crawling: {category_list[i]}')
+    try:
+        data = crawl_data(category_list[i], keyword_list[i])
+        df = pd.DataFrame(data)
+        df.to_csv(f'./data/{category_list[i]}.csv', header=True, encoding='utf-8-sig')
+    except:
+        print(f'Error at {category_list[i]}, still continue to crawl')
+        pass
+    print(f'###Finish crawling: {category_list[i]}')
 
 # test 1 sample
 # data_fpt = []
@@ -133,10 +133,10 @@ keyword_list = ["Thông tin hàng hóa","Bộ xử lý","Thông tin hàng hóa",
 
 # df.to_csv('./sample.csv', header=True, encoding='utf-8-sig')
 
-def crawl_1(i):
-    print(f'###Start crawling: {category_list[i]}')
-    data = crawl_data(category_list[i], keyword_list[i])
-    df = pd.DataFrame(data)
-    df.to_csv(f'./data/{category_list[i]}.csv', header=True, encoding='utf-8-sig')
-    print(f'###Finish crawling: {category_list[i]}')
-crawl_1(5)
+# def crawl_1(i):
+#     print(f'###Start crawling: {category_list[i]}')
+#     data = crawl_data(category_list[i], keyword_list[i])
+#     df = pd.DataFrame(data)
+#     df.to_csv(f'./data/{category_list[i]}.csv', header=True, encoding='utf-8-sig')
+#     print(f'###Finish crawling: {category_list[i]}')
+# crawl_1(5)
