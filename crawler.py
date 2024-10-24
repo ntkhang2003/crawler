@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import json
 import os
 from dotenv import load_dotenv
+from tqdm import tqdm
 
 load_dotenv()
 API_CATEGORY = os.getenv('API_CATEGORY')
@@ -48,38 +49,53 @@ def extract_data_from_script_with_keyword(url, keyword="Thông tin hàng hóa"):
 def raw_to_table_data(raw_data, slug, keyword):
     data_fpt = []
     if raw_data:
-        for item in raw_data["items"]:
+        for item in tqdm(raw_data["items"]):
             list_item = item["skus"]
 
             link = BASE_URL + item["slug"]
-            detail_info = extract_data_from_script_with_keyword(link, keyword)  
-            
+            detail_raw = extract_data_from_script_with_keyword(link, keyword)
+            detail = {}
+            if detail_raw != None:
+                for d in detail_raw:
+                    att = {}
+                    for a in d["attributes"]:
+                        if a["value"] is not None:
+                            att[a["displayName"]] = a["value"]
+                    if att != {}:
+                        detail[d["groupName"].replace("u0026", "và")] = att
+
             brand = item["brand"]["name"] if "brand" in item else ""
             productType = item["productType"]["name"] if "productType" in item else ""
             group = item["group"]["name"] if "group" in item else ""
-            
+            keySellingPoints = [f'{i["title"]} {i["description"]}' for i in item["keySellingPoints"]]
+            promotions = [i["content"] for i in item["promotions"]]
+
             for data in list_item:
-                variant_info = dict()
-                for i in range(len(data["variants"])):
-                    variant_info[data["variants"][i]["propertyName"]] = data["variants"][i]["displayValue"]
+                # variant_info = {}
+                # for i in range(len(data["variants"])):
+                #     variant_info[data["variants"][i]["propertyName"]] = data["variants"][i]["displayValue"]
 
                 data_fpt.append(
                     {
                         "sku": data["sku"] if "sku" in data else "",
-                        "displayName": data["displayName"],
-                        "detail_info": detail_info,
-                        "brand": brand,
-                        "productType": productType,
-                        "group": group,
-                        "originalPrice": data["originalPrice"],
-                        "currentPrice": data["currentPrice"],
-                        "discountPercentage": data["discountPercentage"],
-                        "endTimeDiscount": data["endTimeDiscount"],
-                        "link": link,
-                        "image": data["image"]
+                        "Tên": data["displayName"],
+                        "Trạng thái": data["statusOnWeb"]["displayName"],
+                        "Nhãn hàng": brand,
+                        "Loại": productType,
+                        "Nhóm": group,
+                        "Đặc điểm nổi bật": keySellingPoints,
+                        "Giá gốc": data["originalPrice"],
+                        "Giá hiện tại": data["currentPrice"],
+                        "Giảm giá": data["discountPercentage"],
+                        "Thời gian kết thúc giảm giá": data["endTimeDiscount"],
+                        "Khuyến mãi": promotions,
+                        "Link đặt hàng": BASE_URL + data["slug"],
+                        "Ảnh": data["image"],
+                        "Màu": data["variants"][0]["displayValue"] if data["variants"] != [] else ""
                     }
                 )
-                data_fpt[-1].update(variant_info)
+                # data_fpt[-1].update(variant_info)
+                data_fpt[-1].update(detail)
     return data_fpt
 
 def crawl_data(category, keyword):
@@ -97,13 +113,30 @@ category_list = ["dien-thoai", "may-tinh-xach-tay",'may-tinh-bang',"smartwatch",
 #sim-fpt , linh-kien, dien-gia-dung, may-doi-tra
 keyword_list = ["Thông tin hàng hóa","Bộ xử lý","Thông tin hàng hóa","Thông tin hàng hóa","Thông tin hàng hóa","Thông tin hàng hóa","Thông tin hàng hóa","Thông tin hàng hóa",'Bộ xử lý',"Thông tin hàng hóa","Thông tin hàng hóa","Thông tin hàng hóa","Thông tin hàng hóa","Thông tin hàng hóa"]
 
-for i in range(len(category_list)):
+# for i in range(len(category_list)):
+#     print(f'###Start crawling: {category_list[i]}')
+#     try:
+#         data = crawl_data(category_list[i], keyword_list[i])
+#         df = pd.DataFrame(data)
+#         df.to_csv(f'./data/{category_list[i]}.csv', header=True, encoding='utf-8-sig')
+#     except:
+#         print(f'Error at {category_list[i]}, still continue to crawl')
+#         pass
+#     print(f'###Finish crawling: {category_list[i]}')
+
+# test 1 sample
+# data_fpt = []
+# slug = "may-tinh-xach-tay"
+# data = getData(256, slug, 16)
+# data_fpt = data_fpt + raw_to_table_data(data,slug, "Bộ xử lý")
+# df = pd.DataFrame(data_fpt)
+
+# df.to_csv('./sample.csv', header=True, encoding='utf-8-sig')
+
+def crawl_1(i):
     print(f'###Start crawling: {category_list[i]}')
-    try:
-        data = crawl_data(category_list[i], keyword_list[i])
-        df = pd.DataFrame(data)
-        df.to_csv(f'./data/{category_list[i]}.csv', header=True, encoding='utf-8')
-    except:
-        print(f'Error at {category_list[i]}, still continue to crawl')
-        pass
+    data = crawl_data(category_list[i], keyword_list[i])
+    df = pd.DataFrame(data)
+    df.to_csv(f'./data/{category_list[i]}.csv', header=True, encoding='utf-8-sig')
     print(f'###Finish crawling: {category_list[i]}')
+crawl_1(5)
