@@ -118,7 +118,7 @@ for i in range(len(category_list)):
     try:
         data = crawl_data(category_list[i], keyword_list[i])
         df = pd.DataFrame(data)
-        df.to_csv(f'./data/{category_list[i]}.csv', header=True, encoding='utf-8-sig')
+        df.to_csv(f'./data/{category_list[i]}.csv', index=False, header=True, encoding='utf-8-sig')
     except:
         print(f'Error at {category_list[i]}, still continue to crawl')
         pass
@@ -137,6 +137,6 @@ for i in range(len(category_list)):
 #     print(f'###Start crawling: {category_list[i]}')
 #     data = crawl_data(category_list[i], keyword_list[i])
 #     df = pd.DataFrame(data)
-#     df.to_csv(f'./data/{category_list[i]}.csv', header=True, encoding='utf-8-sig')
+#     df.to_csv(f'./data/{category_list[i]}.csv', index=False, header=True, encoding='utf-8-sig')
 #     print(f'###Finish crawling: {category_list[i]}')
 # crawl_1(5)
