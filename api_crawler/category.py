@@ -1,7 +1,9 @@
 import requests
 import json
-
-url = "https://papi.fptshop.com.vn/gw/v1/public/fulltext-search-service/category"
+from dotenv import load_dotenv
+load_dotenv()
+API_CATEGORY = os.getenv('API_CATEGORY')
+url = API_CATEGORY
 
 category = ['dien-thoai', 'may-tinh-xach-tay']
 
